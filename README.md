@@ -1,3 +1,3 @@
-Front-Developer
+Front-End Developer
 
 Düzenlenme Aşamasında..
