@@ -2,5 +2,5 @@
 ##### Game Developer?
 
 ###### The last codes I wrote;
-  https://github.com/imamkilicaslan/Algorithms/tree/master/Mathematical%20Algorithms/Prime%20Numbers%20Algorithm
+  https://github.com/imamkilicaslan/Algorithms/blob/master/Mathematical%20Algorithms/Prime%20Numbers%20Algorithm/prime-numbers.py
 
