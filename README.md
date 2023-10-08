@@ -1,5 +1,4 @@
-###### Ex Front-End Developer
-##### Game Developer?
+# Game Developer?
 
 ### My last works;
 ### https://github.com/imamkilicaslan/Basic-Paint-App
